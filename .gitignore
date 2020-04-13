@@ -1,0 +1,7 @@
+
+/img/
+/js/
+/scss/
+/node_modules/
+*.json
+gulpfile.js
